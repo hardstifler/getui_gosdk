@@ -9,3 +9,5 @@ GoLang版本的推送SDK。支持：
 - 根据taskId查询推送结果
 - ...全部的v2版本推送接口
 
+# 使用方法见message_api_test.go
+
